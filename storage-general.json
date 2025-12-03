@@ -1,0 +1,15 @@
+{
+  "sites": [
+    "Pancreas SABR",
+    "Liver SABR",
+    "Prostate SABR",
+    "Prostate 20#",
+    "Node/Met SABR",
+    "Bladder"
+  ],
+  "contourers": [
+    "ABC"
+  ],
+  "pt_id_regex": "[0-9]{9}",
+  "csv_path": "Timing_Data.csv"
+}
